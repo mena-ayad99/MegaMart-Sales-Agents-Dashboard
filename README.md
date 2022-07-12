@@ -1,5 +1,5 @@
 ## Megamart sales agents Dashboard
-** Tableau dashboard project. Part of series of projects to build my portfolio and practice the skills I learned.**
+** Data Visualization (Tableau dashboard project). Part of series of projects to build my portfolio and practice the skills I learned.**
 
 #### *Case Summary:* 
 Megamart is a store which sells various goods to consumers all over the world. The company works only through Sales Agents who are responsible for selling products to their customers. 
